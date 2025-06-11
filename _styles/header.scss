@@ -1,9 +1,9 @@
 ---
 ---
 
-$logo-big: 80px;
-$logo: 40px;
-$big-padding: 100px;
+$logo-big: 120px;
+$logo: 80px;
+$big-padding: 10px;
 $collapse: 700px;
 $sticky: true;
 
@@ -14,6 +14,7 @@ header {
   flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
+  border-bottom: 1px solid #000;
   box-shadow: var(--shadow);
 
   @if $sticky {
@@ -137,7 +138,8 @@ header[data-big] {
   align-items: center;
   flex-direction: column;
   padding: $big-padding 20px;
-
+  border-bottom: 1px solid #000;
+  
   @if $sticky {
     top: unset;
   }

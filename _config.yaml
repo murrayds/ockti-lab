@@ -2,18 +2,12 @@
 title: Observatory for Critical Knowledge, Technology, & Innovation
 subtitle: 
 description: We study the landscape and role of scientific and technology in the United States and beyond.
-header: images/background.jpg
-footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@murrayds.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: dakota.s.murray@gmail.com
   github: murrayds
-  twitter: murrayds
-  youtube: murrayds
 
 ### jekyll settings
 
