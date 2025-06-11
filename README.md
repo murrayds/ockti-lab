@@ -5,6 +5,6 @@
 
   # murrayds's Website
 
-  Visit **[dakotamurray.me/murray-lab-website](http://dakotamurray.me/ockti-lab)** 🚀
+  Visit **[dakotamurray.me/ockti-lab](http://dakotamurray.me/ockti-lab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
