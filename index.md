@@ -1,9 +1,20 @@
 ---
 ---
 
-# murrayds's Website
+# Lab Overview
 
-An engaging 1-3 sentence description of your lab.
+Our lab studies how knowledge, technology, and other innovations are created and used in society, ranging from scientific research to new technologies. We use data and specialized tools to map this activity and understand how it shapes everything from medicine to industry to national policy. Its like an observatory, except instead of observing far-away objects visible, we how ideas move, grow, and make an impact.
+
+The mission of OCKTI includes...
+
+1. To leverage big data to make legible the landscape of scientific and technological (S&T) knowledge and expertise in New York State, the United States, and globally; 
+2. To produce insights into the social forces of knowledge creation and innovation within science and beyond.
+3. To pioneer the use of new data and computational techniques to drive progress in the field; 
+4. To bridge the divide between quantitative science studies and theory from sociology of science and epistemology; 
+5. To improve the local and national S&T ecosystem by identifying disincentives, inequalities, and inefficiencies, and addressing these shortcomings through actionable policy guidance; 
+6. To serve as a  nexus between academia, industry, and government, building connections across sectors that can be leveraged to increase impact, particularly within New York; and 
+7. To cultivate future leaders at the intersection of data science and S&T policy, equipping undergraduate and graduate students with the hard skills and theoretical expertise necessary to make contributes towards improving the study of and application of knowledge in industry, government, and academia.
+
 
 {% include section.html %}
 
@@ -11,7 +22,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research 
 
 {%
   include button.html
@@ -34,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We aim to map scientific activity in the Unversity at Albany, in New York, nationally, and around the world
 
 {%
   include button.html
@@ -59,7 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team features amazing undergraduates, masters, and doctoral students. Reach out about joining!
 
 {%
   include button.html
