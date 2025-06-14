@@ -22,7 +22,4 @@ Our team spans undergraduate, masters, and doctoral students.
 # Alumni
 {% include list.html data="members" component="portrait" filter="group == 'alumni'" %}
 
-
-{% endcapture %}
-
 {% include grid.html style="square" content=content %}
